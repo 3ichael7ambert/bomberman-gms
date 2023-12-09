@@ -1,0 +1,27 @@
+Missing audiogroup for sound: 'superbomberman3_battle' - setting to default audio group
+Missing audiogroup for sound: 'superbomberman2_battle' - setting to default audio group
+Missing audiogroup for sound: 'superbomberman5_battle2' - setting to default audio group
+Missing audiogroup for sound: 'bomb_place_snd' - setting to default audio group
+Missing audiogroup for sound: 'bomb_bounce_snd' - setting to default audio group
+Missing audiogroup for sound: 'explosion_snd' - setting to default audio group
+Missing audiogroup for sound: 'death_snd' - setting to default audio group
+Missing audiogroup for sound: 'throw_snd' - setting to default audio group
+Missing audiogroup for sound: 'itempick_snd' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'joystick/joystick_xpos.gml'
+Added compatibility script 'joystick/joystick_check_button.gml'
+Added compatibility script 'joystick/joystick_ypos.gml'
+Added compatibility script 'joystick/__joystick_2_gamepad.gml'
+Added compatibility script 'sound/sound_stop_all.gml'
+Added compatibility script 'sound/sound_loop.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'joystick/__init_joystick.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'joystick/joystick_process_events.gml'
+Added compatibility script 'joystick/joystick_exists.gml'
+Added compatibility script '__global_object_depths.gml'

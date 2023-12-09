@@ -1,0 +1,1 @@
+aimode=ai_follow;
